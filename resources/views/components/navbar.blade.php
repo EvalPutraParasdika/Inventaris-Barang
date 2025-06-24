@@ -10,15 +10,5 @@
         </li>
 
     </ul>
-
-    <!-- Right navbar links -->
-    <ul class="navbar-nav ml-auto">
-        <!-- Notifications Dropdown Menu -->
-        <li class="nav-item">
-            <a class="nav-link" href="send-test-email" role="button">
-                <i class="fas fa-envelope"></i> Email
-            </a>
-        </li>
-    </ul>
 </nav>
 <!-- /.navbar -->
